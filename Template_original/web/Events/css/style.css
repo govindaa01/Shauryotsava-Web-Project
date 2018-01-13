@@ -626,16 +626,6 @@ div#design {
     margin: 0;
     letter-spacing: 2px;
 }
-.events-name h4 {
-    text-align: center;
-    color: #000000;
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 1.5em;
-    font-weight: 100;
-    text-transform: uppercase;
-    margin: 0;
-    letter-spacing: 1px;
-}
 .modal-header h5{
     margin: 1em 0;
     color: #999999;
